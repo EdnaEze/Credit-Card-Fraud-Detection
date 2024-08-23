@@ -14,7 +14,7 @@ To empirically evaluate the proposed techniques in this dissertation, an extensi
 ### Dataset
 [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
-### Dependencies
+### Libraries & Dependencies
 * Python
 * Scikit-Learn
 * Numpy
